@@ -7,7 +7,7 @@ Se gostar de algum conteúdo curta por favo,
 assim você estará me ajudando a divulgar o meu trabalho
 </h2>
 
-<br> <br>
+## <br> <br> Meus stats
 
 <div>
         
@@ -16,7 +16,7 @@ assim você estará me ajudando a divulgar o meu trabalho
 <a href="https://github.com/JNascimento-droid" target="_blank"><img wight = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNascimento-droid&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
         
-## <br> <br> <br> Languages
+## <br> <br> <br> <br> Languages & Frameworks(Platforms and Libraries)
 
 <div>
  
@@ -37,6 +37,8 @@ assim você estará me ajudando a divulgar o meu trabalho
 <img src ="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
                       
 <img src ="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+        
+<img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
                       
 </div>
 
@@ -47,15 +49,17 @@ assim você estará me ajudando a divulgar o meu trabalho
    
 <img src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   
-<img src ="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+<a href=https://codepen.io/JN2020 target="_blank"><img src ="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
 ## <br> Databases
 <div>
    
-<img align="left" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
    
-<a href=https://codepen.io/JN2020 target="_blank"><img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<img src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+        
+<img src ="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
    
 </div>
 
@@ -65,5 +69,16 @@ assim você estará me ajudando a divulgar o meu trabalho
 <img src ="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
    
 <img src ="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+   
+</div>
+
+## <br> office
+<div>
+   
+<img src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+   
+<img src ="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+        
+<img src ="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
    
 </div>
