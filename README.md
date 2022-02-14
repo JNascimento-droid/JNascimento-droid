@@ -19,6 +19,8 @@ assim você estará me ajudando a divulgar o meu trabalho
 ## <br> <br> <br> Languages
 
 <div>
+ 
+<img src ="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">      
         
 <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
                       
