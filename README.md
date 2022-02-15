@@ -82,6 +82,15 @@ assim você estará me ajudando a divulgar o meu trabalho
    
 </div>
 
+## <br> design programs
+<div>
+   
+<img src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+        
+<img src ="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+   
+</div>
+
 <br><br><br><br> <h3 align = "center"> Meios de comunicação</h3>
 <div align = "center">
    
