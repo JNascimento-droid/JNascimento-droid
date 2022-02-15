@@ -3,7 +3,7 @@ Sejam bem vindos ao meu perfil
 </h1>
 
 <h2 align="center">
-Se gostar de algum conteúdo curta por favo,  
+Se gostar de algum conteúdo curta por favor,  
 assim você estará me ajudando a divulgar o meu trabalho
 </h2>
 
