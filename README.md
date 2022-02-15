@@ -7,16 +7,15 @@ Se gostar de algum conteúdo curta por favo,
 assim você estará me ajudando a divulgar o meu trabalho
 </h2>
 
-## <br> <br> Meus stats
+## <br> <br> Meus stats 
 
-<div>
-        
+<div>     
 <a href="https://github.com/JNascimento-droid" target="_blank"><img align ="left" wight = "47%" src="https://github-readme-stats.vercel.app/api?username=JNascimento-droid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
 
 <a href="https://github.com/JNascimento-droid" target="_blank"><img wight = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNascimento-droid&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
         
-## <br> <br> <br> <br> Languages & Frameworks(Platforms and Libraries)
+## <br> <br> <br> Languages & Frameworks(Platforms and Libraries)
 
 <div>
  
@@ -83,8 +82,8 @@ assim você estará me ajudando a divulgar o meu trabalho
    
 </div>
 
-## <br> Meios de comunicação
-<div>
+<br><br><br><br> <h3 align = "center"> Meios de comunicação</h3>
+<div align = "center">
    
 <img src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
    
