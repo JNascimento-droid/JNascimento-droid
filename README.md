@@ -1,5 +1,5 @@
 <!--<img align="left" src ="https://ttotblog.files.wordpress.com/2014/10/tumblr_mm3mdz4jip1sp5yuho1_250.gif">-->
-<img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee4c039d-bca3-4b5c-9177-402428a34d44/dekgcj6-b6016d0e-bdb0-4077-ad72-b32138832be5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlNGMwMzlkLWJjYTMtNGI1Yy05MTc3LTQwMjQyOGEzNGQ0NFwvZGVrZ2NqNi1iNjAxNmQwZS1iZGIwLTQwNzctYWQ3Mi1iMzIxMzg4MzJiZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fJfdcwpfK9nekbrD77PIEOTUvw0YbyrR-m10aeU9QUU">
+<img align ="center" src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee4c039d-bca3-4b5c-9177-402428a34d44/dekgcj6-b6016d0e-bdb0-4077-ad72-b32138832be5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlNGMwMzlkLWJjYTMtNGI1Yy05MTc3LTQwMjQyOGEzNGQ0NFwvZGVrZ2NqNi1iNjAxNmQwZS1iZGIwLTQwNzctYWQ3Mi1iMzIxMzg4MzJiZTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fJfdcwpfK9nekbrD77PIEOTUvw0YbyrR-m10aeU9QUU">
 
 <h1 align="center"> Sejam bem vindos ao meu perfil </h1>
 
