@@ -114,6 +114,6 @@
    
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNascimento-droid&repo=github-readme-stats)](https://github.com/JNascimento-droid/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNascimento-droid&repo=jquery-librarys)](https://github.com/JNascimento-droid/jquery-library-.git)
 
 <!--https://github.com/JNascimento-droid/jquery-library-.git-->
