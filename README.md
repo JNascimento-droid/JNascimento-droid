@@ -113,7 +113,3 @@
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNascimento-droid&repo=jquery-librarys)](https://github.com/JNascimento-droid/jquery-library-.git)
-
-<!--https://github.com/JNascimento-droid/jquery-library-.git-->
