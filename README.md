@@ -113,3 +113,5 @@
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNascimento-droid&repo=github-readme-stats)](https://github.com/JNascimento-droid/github-readme-stats)
